@@ -11756,7 +11756,9 @@ textarea.form-control-lg {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.a-center{
-  display:block;
-  text-align:center;
-}
+.panel-section {
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 30px;
+  padding: 10px;
+  margin: 10px;
+    }
